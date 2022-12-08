@@ -3,7 +3,7 @@ public class ElseIF {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String lang = "Java";
+		String lang = "python";
 		if(lang== "python") {
 			System.out.println("language is python");
 		}else if(lang=="C++") {
